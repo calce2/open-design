@@ -1,3 +1,36 @@
+<!-- repository-overview:start -->
+## 📌 저장소 한눈에 보기
+
+**AI 디자인 제작 스튜디오**
+
+| 구분 | 내용 |
+|---|---|
+| 분류 | 디자인·영상·문서 |
+| 공개 범위 · 2026-10-09 확인 | 공개 |
+| 저장소 형태 | 외부 프로젝트 포크 |
+| 기본 브랜치 | `main` |
+| 주요 구성 | 앱·CLI·MCP·디자인 시스템·템플릿·스킬 |
+
+### 주요 기능·내용
+
+- 웹/모바일/데스크톱 프로토타입·대시보드
+- 발표자료·이미지·영상·모션 제작
+- 디자인 시스템·템플릿·플러그인
+- 미리보기·HTML/PDF/PPTX/MP4 내보내기·자동화
+
+원본 프로젝트: [nexu-io/open-design](https://github.com/nexu-io/open-design)
+
+### 바로 관리하기
+
+**[📝 설명·메모 수정](https://github.com/calce2/open-design/edit/main/README.md) · [⚙️ 설정](https://github.com/calce2/open-design/settings) · [📦 보관 / 🗑️ 삭제 설정](https://github.com/calce2/open-design/settings#danger-zone)**
+
+보관·삭제 링크는 해당 저장소의 Settings → Danger Zone으로 이동합니다. 실행은 그 화면에서 선택하고 확인합니다.
+
+<sub>2026-10-09 작성 · 코드·문서를 기준으로 한 소개입니다. 공개 범위와 기능이 바뀌면 이 기록도 갱신하세요.</sub>
+<!-- repository-overview:end -->
+
+---
+
 <h1 align="center">Open Design: The open-source Claude Design alternative</h1>
 
 > 🔥 **Open Design 0.13.0 — _Stay in Flow_ is here.** Long design sessions used to break on every interruption — a run lost its place, a model picker made you guess, an export needed one more detour. 0.13.0 keeps the session alive: resume Codex / OpenCode / Pi / Open Design Cloud runs across turns, pick the right model faster, and hand off screenshot-backed PPTX / PDF without leaving the app. [Download 0.13.0](https://github.com/nexu-io/open-design/releases) · [Release notes](https://github.com/nexu-io/open-design/releases/tag/open-design-v0.13.0)
